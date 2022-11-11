@@ -1,0 +1,15 @@
+D:\source\repos\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.exe
+D:\source\repos\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.deps.json
+D:\source\repos\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.runtimeconfig.json
+D:\source\repos\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.dll
+D:\source\repos\Algorithm\Algorithm\bin\Debug\net6.0\Algorithm.pdb
+D:\source\repos\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.csproj.AssemblyReference.cache
+D:\source\repos\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfoInputs.cache
+D:\source\repos\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.AssemblyInfo.cs
+D:\source\repos\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.csproj.CoreCompileInputs.cache
+D:\source\repos\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.dll
+D:\source\repos\Algorithm\Algorithm\obj\Debug\net6.0\refint\Algorithm.dll
+D:\source\repos\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.pdb
+D:\source\repos\Algorithm\Algorithm\obj\Debug\net6.0\Algorithm.genruntimeconfig.cache
+D:\source\repos\Algorithm\Algorithm\obj\Debug\net6.0\ref\Algorithm.dll
